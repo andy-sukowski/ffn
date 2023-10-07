@@ -1,0 +1,5 @@
+outs:
+- md5: f374f67f7f0597571db227d2992f5c17
+  size: 307151
+  hash: md5
+  path: new_york_model.jld2

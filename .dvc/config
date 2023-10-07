@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = http_fetch
+['remote "http_fetch"']
+    url = https://dvc.andy-sb.com/ffn
